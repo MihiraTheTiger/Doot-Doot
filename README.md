@@ -1,5 +1,3 @@
-Doot-Doot
-=========
 # encoding: UTF-8
 require 'cinch'
 require 'httparty'
